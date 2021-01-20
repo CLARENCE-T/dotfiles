@@ -48,4 +48,8 @@
   mergeoptions = --no-edit
 [user]
 	email = tanguy.clarence@gmail.com
-	name = TT
+	name = TANGUY CLARENCE
+[hub]
+	protocol = ssh
+[credential]
+	helper = store
